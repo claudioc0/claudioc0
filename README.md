@@ -6,7 +6,7 @@ Estudante de Engenharia de Software da PUCPR (formatura em dez/2026, média gera
 
 ## Stack
 
-`Python` · `Java` · `SQL / MySQL` · `Git` · `Docker` · `AWS` · `TypeScript` · `React` · `Node.js` · `C++` · `C# / .NET` · `PHP` (em estudo)
+`Python` · `Java` · `SQL / MySQL` · `Git` · `Docker` · `AWS` · `TypeScript` · `React` · `Node.js` · `C++` · `PHP` (em estudo)
 
 ## Experiência
 
